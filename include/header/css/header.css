@@ -1,5 +1,5 @@
 header#imagem{
-background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6) ), url(../img/mesa.jpg);
+background-image: url(../img/mesa.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
  
