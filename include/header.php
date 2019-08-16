@@ -10,4 +10,5 @@
 	<link rel="stylesheet" href="media/css/bootstrap.min.css">
 	<link rel="stylesheet" href="media/css/estilos.css">
 	<script src="media/js/font_awesome.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
 </head>

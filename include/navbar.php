@@ -39,7 +39,7 @@
 </ul>
 </div>
 <div class="float-right mr-3 d-none d-lg-block">
-    <a href="#" id="a"><span class="pr-2">Login</span></a>
+    <a href="#" id="a" class="text-decoration-none"><span class="pr-2">Login</span></a>
     <button type="button" class="btn btn-orange"><strong>Quero Fidelizar</strong></button>
 </div>
 </nav>

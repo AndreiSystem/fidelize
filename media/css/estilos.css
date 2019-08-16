@@ -2,6 +2,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.text-orange {
+    color: #ff763b;
+}
+
 .btn-orange {
     background-color: #ff763b;
     color: #fff;
@@ -36,6 +40,7 @@ div#mesa {
     background-repeat: no-repeat;
     position: relative;
 
+
 }
 
 div#mesa:before {
@@ -46,4 +51,8 @@ div#mesa:before {
     height: 100%;
     content: '';
     background-color: rgba(0, 0, 0, 0.4);
+}
+
+#preco {
+    font-size: 30px;
 }
