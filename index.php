@@ -31,10 +31,15 @@ include "include/navbar.php";
 			<div class="row">
 
 				<div class="col-lg-4 col-sm-12">
+<<<<<<< HEAD
 					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1" id="j">
+=======
+					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1">
+						<a href="#"><i class="fas fa-info-circle fa-sm fa-muted float-right"></i></a>
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 						<div class="card-body">
 							<h5 class="card-title text-orange"><strong>GRATUITO</strong></h5>
-							<p class="card-text text-muted">Os primeiros 10 clientes a completar o cupom é gratuito.</p>
+							<p class="card-text text-muted">Os primeiros 10 clientes a completar o cupom é gratuito sem válidade única, aproveite para testar!</p>
 							<hr>
 							<span class="font-weight-normal" style="font-size: 10px"><strong>PREÇO:</strong></span>
 							<div id="preco">
@@ -44,7 +49,12 @@ include "include/navbar.php";
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-12">
+<<<<<<< HEAD
 					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1" id="j">
+=======
+					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1">
+						<a href="#"><i class="fas fa-info-circle fa-sm fa-muted float-right"></i></a>
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 						<div class="card-body">
 							<h5 class="card-title text-orange"><strong>BÁSICO</strong></h5>
 							<p class="card-text text-muted">A partir do 11° cliente a completar o cupom, será cobrado R$ 1,5 para cada novo cupom completado.</p>
@@ -57,12 +67,17 @@ include "include/navbar.php";
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-12">
+<<<<<<< HEAD
 					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1" id="j">
+=======
+					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1">
+						<a href="#"><i class="fas fa-info-circle fa-sm fa-muted float-right"></i></a>
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 						<div class="card-body">
-							<h5 class="card-title text-orange"><strong> INTERMEDIÁRIO </strong></h5>
-							<p class="card-text text-muted"> R$ 15,90 + R$ 1,5 para cada cupom completado, 
-							além do básico, terá acesso a respostas de satisfação , sms marketing básico para até 100 clientes/mês e 1000 e-mail marketing/mês.</p>
+							<h5 class="card-title text-orange"><strong> INTERMEDIÁRIO</strong></h5>
+							<p class="card-text text-muted">Acesso a respostas de satisfação, sms básico para até 100 clientes/mês e 1000 e-mail marketing/mês!</p>
 							<hr>
+
 							<span class="font-weight-normal" style="font-size: 10px"><strong>PREÇO:</strong></span>
 							<div id="preco">
 								<a href="#" class="text-decoration-none"><strong>R$ 15,90</strong> <span style="font-size: 15px"> + R$ 1,50</span></a>
@@ -71,10 +86,15 @@ include "include/navbar.php";
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-12">
+<<<<<<< HEAD
 					<div class="card bg-light shadow p-3 bg-white rounded mb-1" id="j">
+=======
+					<div class="card bg-light shadow p-3 bg-white rounded mt-5 mb-1">
+						<a href="#"><i class="fas fa-info-circle fa-sm fa-muted float-right"></i></a>
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 						<div class="card-body">
-							<h5 class="card-title text-orange"><strong>GRATUITO</strong></h5>
-							<p class="card-text text-muted">Os primeiros 10 clientes a completar o cupom é gratuito.</p>
+							<h5 class="card-title text-orange"><strong>AVANÇADO</strong></h5>
+							<p class="card-text text-muted">Acesso a respostas de satisfação, sms marketing até 1000 clientes/mês e 10000 e-mail marketing/mês.</p>
 							<hr>
 							<span class="font-weight-normal" style="font-size: 10px"><strong>PREÇO:</strong></span>
 							<div id="preco">
@@ -83,10 +103,15 @@ include "include/navbar.php";
 						</div>
 					</div>
 				</div>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 			</div>
 		</div>
 	</div>
 </content>
+<<<<<<< HEAD
 <section>
 	<div class="bg-orange mt-3">
 		<div class="container pt-5">
@@ -128,6 +153,8 @@ include "include/navbar.php";
 		
 	</div>
 	
+=======
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
 
 
 

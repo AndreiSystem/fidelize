@@ -74,6 +74,7 @@ div#mesa {
     
 }
 
+<<<<<<< HEAD
 #conteudo {
     margin-bottom: 50px;
 }
@@ -87,3 +88,13 @@ div#mesa {
 }
 
 
+=======
+#preco {
+    font-size: 30px;
+}
+
+#c {
+    min-height: 100px;
+    max-height: 200px;
+}
+>>>>>>> 56814e7eeca8dd3d07317754e51ab6492151db2f
