@@ -57,7 +57,10 @@ div#mesa:before {
     font-size: 30px;
 }
 
-#c {
-    min-height: 100px;
-    max-height: 200px;
+#ico {
+    height: 35px;"
+}
+
+#footer {
+   padding-bottom: 60px;
 }

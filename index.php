@@ -87,6 +87,7 @@ include "include/navbar.php";
 			</div>
 		</div>
 	</div>
+
 </content>
 
 	<?php include "include/footer.php" ?>
